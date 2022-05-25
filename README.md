@@ -1,4 +1,4 @@
-# Proxy Scraper
+# Proxy-Scraper
 
 Setup:
 
