@@ -1,6 +1,12 @@
 erreq = False
 ercolorama = False
 moderror = False
+try:
+    import os
+    from os import system
+    system("title " + "Proxy Scraper")
+except:
+    pass
 import os
 try:
     import colorama
@@ -50,7 +56,7 @@ if moderror == True:
             exit()
 
 def cred():
-    print("This Tool Was Made By blob#0005 And The Proxy Checker  (2) Works Under Proxyscrapes Api.")
+    print("(1) This Tool Was Made By blob#0005 And The Proxy Checker  (2) Works Under Proxyscrapes Api.")
     input("")
     return
 def sniper():
