@@ -4,7 +4,7 @@ moderror = False
 try:
     import os
     from os import system
-    system("title " + "Proxy Scraper")
+    system("title " + "Proxy Scraper,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 import os
